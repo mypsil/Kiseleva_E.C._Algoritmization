@@ -1,4 +1,4 @@
 # Алгоритмизация
 ## Лекция 1
-https://docs.google.com/document/d/1SU2_ppAcEZ-caaoiCCwWisbyk4fcerOnI0EENyP5338/edit?usp=drivesdk
+https://drive.google.com/drive/folders/1vecCRzfKvITgX_4j_LjNy5mJhgkJ0y70?usp=drive_link
 **mork**
